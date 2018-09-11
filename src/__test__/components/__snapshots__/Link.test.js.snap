@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Components > Link Render a snapshot for Link use renderer 1`] = `
+<a
+  href="/link/to/test"
+  onClick={[Function]}
+>
+  Default title
+</a>
+`;
